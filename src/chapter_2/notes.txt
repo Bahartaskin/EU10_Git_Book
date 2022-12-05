@@ -1,4 +1,4 @@
-
+NOT: we can pull or update from gitHub to our computer
 
 this is editor notes 
 for the book so far
